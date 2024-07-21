@@ -79,4 +79,3 @@
   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=k7413ds433d&" alt="k7413ds433d" width=49% />
 </p>
 
-;;<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=k7413ds433d&show_icons=true&locale=en&layout=compact" alt="k7413ds433d" /></p>
