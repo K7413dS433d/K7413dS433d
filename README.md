@@ -15,23 +15,23 @@
 - 📫 How to reach me: **khaledsaied2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<div align="left" style="display: flex; gap: 10px;">
-  <a href="https://linkedin.com/in/khaled-saeed" target="blank">
+<p align="left">
+  <a href="https://linkedin.com/in/khaled-saeed" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Khaled Saeed" height="30" width="40" />
   </a>
-  <a href="https://stackoverflow.com/users/23491224" target="blank">
+  <a href="https://stackoverflow.com/users/23491224" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23491224" height="30" width="40" />
   </a>
-  <a href="https://fb.com/khaled-saeed" target="blank">
+  <a href="https://fb.com/khaled-saeed" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Khaled Saeed" height="30" width="40" />
   </a>
-  <a href="https://codeforces.com/profile/k7413ds433d" target="blank">
+  <a href="https://codeforces.com/profile/k7413ds433d" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="k7413ds433d" height="30" width="40" />
   </a>
-</div>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+<p align="center">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" />
   </a>
@@ -71,16 +71,14 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
   </a>
-</div>
+</p>
 
 <h3 align="left">GitHub Stats:</h3>
-<div align="center" style="display: flex; justify-content: space-between;">
-  <p style="flex: 1;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=k7413ds433d&show_icons=true&locale=en" alt="k7413ds433d" />
-  </p>
-  <p style="flex: 1;">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k7413ds433d&" alt="k7413ds433d" />
-  </p>
-</div>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=k7413ds433d&show_icons=true&locale=en" alt="k7413ds433d" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k7413ds433d&" alt="k7413ds433d" />
+</p>
 
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=k7413ds433d&show_icons=true&locale=en&layout=compact" alt="k7413ds433d" style="width:40%" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=k7413ds433d&show_icons=true&locale=en&layout=compact" alt="k7413ds433d" />
+</p>
