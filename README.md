@@ -1,4 +1,8 @@
 <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=k7413ds433d&label=Profile%20views&color=0e75b6&style=flat" alt="k7413ds433d" />
+</p>
+
+<p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=k7413ds433d" alt="k7413ds433d" />
   </a>
@@ -12,13 +16,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/khaled-saeed" target="blank">
+  <a href="www.linkedin.com/in/k7413ds433d" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Khaled Saeed" height="30" width="40" />
   </a>
   <a href="https://stackoverflow.com/users/23491224" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23491224" height="30" width="40" />
   </a>
-  <a href="https://fb.com/khaled-saeed" target="blank">
+  <a href="https://www.facebook.com/K7413dS433d/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Khaled Saeed" height="30" width="40" />
   </a>
   <a href="https://codeforces.com/profile/k7413ds433d" target="blank">
