@@ -80,4 +80,5 @@
 </p>
 
 <h3 align="left">Snake eating my contributions:</h3>
+
 ![snake gif](https://github.com/K7413dS433d/K7413dS433d/blob/output/github-contribution-grid-snake.gif)
