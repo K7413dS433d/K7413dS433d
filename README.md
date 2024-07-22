@@ -75,7 +75,7 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=k7413ds433d&show_icons=true&locale=en" alt="k7413ds433d" width=48% height=200px />&nbsp;
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=k7413ds433d&" alt="k7413ds433d" width=48%  height=200px/>
+  <img src="https://github-readme-stats.vercel.app/api?username=k7413ds433d&show_icons=true&locale=en" alt="k7413ds433d" width=45% height=200px />
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=k7413ds433d&" alt="k7413ds433d" width=45%  height=200px/>
 </p>
 
