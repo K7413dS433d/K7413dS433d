@@ -79,6 +79,6 @@
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=k7413ds433d&" alt="k7413ds433d"   height="149" />
 </p>
 
-<h3 align="left">Snake eating my contributions:</h3>
+<h3 align="left">Snake Eating My Contributions:</h3>
 
 ![snake gif](https://github.com/K7413dS433d/K7413dS433d/blob/output/github-contribution-grid-snake-dark.svg)
