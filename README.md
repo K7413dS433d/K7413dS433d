@@ -9,7 +9,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Khaled Saeed</h1>
-<h3 align="center">A passionate frontend developer currently learning at Route</h3>
+<h3 align="center">A passionate web developer currently studying frontend development at Route</h3>
 
 - 🌱 I’m currently learning **MERN-stack Web Development**
 - 📫 How to reach me: **khaledsaied2002@gmail.com**
