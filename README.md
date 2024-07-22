@@ -75,8 +75,8 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=k7413ds433d&show_icons=true&locale=en" alt="k7413ds433d"   height="150" />
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=k7413ds433d&" alt="k7413ds433d"   height="149" />
+  <img src="https://github-readme-stats.vercel.app/api?username=K7413dS433d&show_icons=true&locale=en" alt="k7413ds433d"   height="150" />
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=K7413dS433d&" alt="k7413ds433d"   height="149" />
 </p>
 
 <h3 align="left">Snake Eating My Contributions:</h3>
