@@ -11,7 +11,7 @@
 <h1 align="center">Hi, I'm Khaled Saeed</h1>
 <h3 align="center">A passionate web developer currently studying frontend development at Route</h3>
 
-- 🌱 I’m currently learning **MERN-stack Web Development**
+- 🌱 I’m currently learning **MERN-Stack Web Development**
 - 📫 How to reach me: **khaledsaied2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
