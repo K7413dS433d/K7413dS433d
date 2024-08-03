@@ -15,15 +15,12 @@
 - 📫 How to reach me: **khaledsaied2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/khaled-saeed" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Khaled Saeed" height="30" width="40" />
   </a>&nbsp;&nbsp;
   <a href="https://stackoverflow.com/users/23491224" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23491224" height="30" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://fb.com/khaled-saeed" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Khaled Saeed" height="30" width="40" />
   </a>&nbsp;&nbsp;
   <a href="https://codeforces.com/profile/k7413ds433d" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="k7413ds433d" height="30" width="40" />
