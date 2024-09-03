@@ -2,13 +2,16 @@
   <img src="https://komarev.com/ghpvc/?username=k7413ds433d&label=Profile%20views&color=0e75b6&style=flat" alt="k7413ds433d" />
 </p>
 
+<h1 align="center">
+ Hi, I'm Khaled Saeed
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/K7413dS433d">
-    <img src="https://github-profile-trophy.vercel.app/?username=k7413ds433d" alt="k7413ds433d" />
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=Front-End+Developer;Crafting+code+from+ideas%2C+script+by+script.;The+power+of+imagination+makes+us+infinite." alt="Typing SVG" /></a>
 </p>
 
-<h1 align="center">Hi, I'm Khaled Saeed</h1>
 <h3 align="center">A passionate web developer currently studying frontend development at Route</h3>
 
 - 🌱 I’m currently learning **MERN-Stack Web Development**
