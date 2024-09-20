@@ -19,65 +19,28 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/k7413ds433d/" target="_blank">
-    <img align="center" src="https://icon.icepanel.io/Technology/svg/LinkedIn.svg" alt="Khaled Saeed" height="50" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/23491224" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23491224" height="30" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/k7413ds433d" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="k7413ds433d" height="30" width="40" />
-  </a>
+  <a href="https://www.linkedin.com/in/k7413ds433d/" target="_blank"><img style="padding-right:20px;" align="center" src="https://icon.icepanel.io/Technology/svg/LinkedIn.svg" alt="Khaled Saeed" height="50" width="40" /></a>
+  <a href="https://stackoverflow.com/users/23491224" target="_blank"><img style="padding-right:20px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23491224" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/k7413ds433d" target="_blank"><img style="padding-right:20px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="k7413ds433d" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-  <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img alt="JavaScript" width="60" height="60"  src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/javascript.svg"/>
-  </a>&nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-  <img alt="TypeScript" width="60" height="60"  src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/typescript.svg" />
-  </a>&nbsp;
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://static-00.iconduck.com/assets.00/bash-icon-448x512-t4tppxv4.png" alt="bash" width="45" height="45" />
-  </a>&nbsp;
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img alt="Bootstrap" width="50" height="50" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/bootstrap.gif" />
-  </a>&nbsp;
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="50" height="50" />
-  </a>&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" />
-  </a>&nbsp;
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
-  </a>&nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-  </a>&nbsp;
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50" />
-  </a>&nbsp;
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50" />
-  </a>&nbsp;
-  <a href="https://react.dev/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img  alt="React" width="50" height="50" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/react.svg" />
-  </a>&nbsp;
-  <a href="https://jquery.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img  alt="jQuery" width="50" height="50" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/jquery.svg" />
-  </a>&nbsp;
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img  alt="Redux" width="50" height="50" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/redux.svg" />
-  </a>&nbsp;
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img  alt="Tailwind CSS" width="50" height="50" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/tailwindcss.svg" />
-  </a>&nbsp;
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img  alt="Python" width="50" height="50" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/python.svg" />
-  </a>&nbsp;
-</p>&nbsp;
+  <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer" ><img style="padding-right:10px;" alt="JavaScript" width="60" height="60"  src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/javascript.svg"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" ><img style="padding-right:10px;" alt="TypeScript" width="60" height="60"  src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/typescript.svg" /></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" ><img style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/bash-icon-448x512-t4tppxv4.png" alt="bash" width="45" height="45" /></a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer" ><img style="padding-right:10px;" alt="Bootstrap" width="50" height="50" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/bootstrap.gif" /></a><a href="https://www.chartjs.org" target="_blank" rel="noreferrer" ><img style="padding-right:10px;" src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="50" height="50" /></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" ><img style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" /></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer" ><img style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" ><img style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" ><img style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50" /></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer" ><img style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50" /></a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer" ><img style="padding-right:10px;"  alt="React" width="50" height="50" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/react.svg" /></a>
+  <a href="https://jquery.com/" target="_blank" rel="noreferrer" ><img style="padding-right:10px;"  alt="jQuery" width="50" height="50" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/jquery.svg" /></a>
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer" ><img style="padding-right:10px;"  alt="Redux" width="50" height="50" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/redux.svg" /></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" ><img style="padding-right:10px;"  alt="Tailwind CSS" width="50" height="50" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/tailwindcss.svg" /></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer" ><img style="padding-right:10px;"  alt="Python" width="50" height="50" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/python.svg" /></a>
+</p><br>
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
