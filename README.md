@@ -39,7 +39,7 @@
   <img alt="TypeScript" width="60" height="60"  src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/typescript.svg" />
   </a>&nbsp;
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="45" style="background-color:white; border-radius: 10px;" />
+    <img src="	https://static-00.iconduck.com/assets.00/bash-icon-448x512-t4tppxv4.png" alt="bash" width="45" height="45" />
   </a>&nbsp;
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img alt="Bootstrap" width="50" height="50" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/bootstrap.gif" />
