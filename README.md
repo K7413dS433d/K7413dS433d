@@ -12,7 +12,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=Front-End+Developer;Crafting+code+from+ideas%2C+script+by+script.;The+power+of+imagination+makes+us+infinite." alt="Typing SVG" /></a>
 </p>
 
-<h3 align="center">A passionate web developer currently studying frontend development at Route</h3>
+<h3 align="center">A passionate web developer currently studying Mearn-Stack development at Route</h3>
 
 - 🌱 I’m currently learning **MERN-Stack Web Development**
 - 📫 How to reach me: **khaledsaied2002@gmail.com**
@@ -32,17 +32,17 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-  <a href="https://www.w3schools.com/js/" target="_blank">
-    <img align="left" alt="JavaScript" width="60" height="60" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/javascript.svg"/>
+  <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
+    <img alt="JavaScript" width="60" height="60"  src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/javascript.svg"/>
   </a>&nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank">
-  <img align="left" alt="TypeScript" width="60" height="60" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/typescript.svg" />
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <img alt="TypeScript" width="60" height="60"  src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/typescript.svg" />
   </a>&nbsp;
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="45" style="background-color:white; border-radius: 10px;" />
   </a>&nbsp;
-  <a href="https://getbootstrap.com/" target="_blank" >
-    <img align="left" alt="Bootstrap" width="50" height="50" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/bootstrap.gif" />
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <img alt="Bootstrap" width="50" height="50" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/bootstrap.gif" />
   </a>&nbsp;
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
     <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="50" height="50" />
@@ -62,22 +62,21 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50" />
   </a>&nbsp;
-  <a href="https://react.dev/" target="_blank">
-    <img align="left" alt="React" width="50" height="50" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/react.svg" />
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img  alt="React" width="50" height="50" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/react.svg" />
   </a>&nbsp;
-  <a href="https://jquery.com/" target="_blank">
-    <img align="left" alt="jQuery" width="50" height="50" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/jquery.svg" />
+  <a href="https://jquery.com/" target="_blank" rel="noreferrer">
+    <img  alt="jQuery" width="50" height="50" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/jquery.svg" />
   </a>&nbsp;
-  <a href="https://redux.js.org/" target="_blank">
-    <img align="left" alt="Redux" width="50" height="50" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/redux.svg" />
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+    <img  alt="Redux" width="50" height="50" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/redux.svg" />
   </a>&nbsp;
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img align="left" alt="Tailwind CSS" width="50" height="50" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/tailwindcss.svg" />
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img  alt="Tailwind CSS" width="50" height="50" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/tailwindcss.svg" />
   </a>&nbsp;
-  <a href="https://www.python.org/" target="_blank">
-    <img align="left" alt="Python" width="50" height="50" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/python.svg" />
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img  alt="Python" width="50" height="50" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/python.svg" />
   </a>&nbsp;
-
 </p>&nbsp;
 
 <h3 align="left">GitHub Stats:</h3>
