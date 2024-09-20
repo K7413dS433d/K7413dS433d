@@ -28,7 +28,6 @@
 <p align="center">
   <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer" ><img style="margin-right:15px;" alt="JavaScript" width="60" height="60"  src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/javascript.svg"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" ><img style="margin-right:15px;" alt="TypeScript" width="60" height="60"  src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/typescript.svg" /></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" ><img style="margin-right:15px;" src="https://static-00.iconduck.com/assets.00/bash-icon-448x512-t4tppxv4.png" alt="bash" width="40" height="40" /></a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer" ><img style="margin-right:15px;" alt="Bootstrap" width="50" height="50" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/bootstrap.gif" /></a>
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer" ><img style="margin-right:15px;" src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="50" height="50" /></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" ><img style="margin-right:15px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" /></a>
@@ -41,6 +40,7 @@
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer" ><img style="margin-right:15px;"  alt="Redux" width="50" height="50" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/redux.svg" /></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" ><img style="margin-right:15px;"  alt="Tailwind CSS" width="50" height="50" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/tailwindcss.svg" /></a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer" ><img style="margin-right:15px;"  alt="Python" width="50" height="50" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/python.svg" /></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" ><img style="margin-right:15px;" src="https://static-00.iconduck.com/assets.00/bash-icon-448x512-t4tppxv4.png" alt="bash" width="50" height="50" /></a>
 </p><br>
 
 <h3 align="left">GitHub Stats:</h3>
