@@ -26,8 +26,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-  <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer" ><img style="margin-right:15px;" alt="JavaScript" width="60" height="60"  src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/javascript.svg"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" ><img style="margin-right:15px;" alt="TypeScript" width="60" height="60"  src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/typescript.svg" /></a>
+  <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer" ><img style="margin-right:15px;" alt="JavaScript" width="70" height="70"  src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/javascript.svg"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" ><img style="margin-right:15px;" alt="TypeScript" width="70" height="70"  src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/typescript.svg" /></a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer" ><img style="margin-right:15px;" alt="Bootstrap" width="50" height="50" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/bootstrap.gif" /></a>
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer" ><img style="margin-right:15px;" src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="50" height="50" /></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" ><img style="margin-right:15px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" /></a>
