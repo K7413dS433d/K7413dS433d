@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **MERN-Stack Web Development**
 - 📫 How to reach me: **khaledsaied2002@gmail.com**
-- 📄 Check out my CV: [Khaled's CV](https://drive.google.com/file/d/1TnW-fF8ZrNAJ8uOaknoneQWMvE-H71ZN/view?usp=drive_link)
+- 📄 Check out my CV: [Khaled's CV](https://drive.google.com/file/d/1IKVxXj2W_w-5HL7aDhTydE08D11NsMkP/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
