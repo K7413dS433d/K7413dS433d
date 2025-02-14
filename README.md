@@ -40,7 +40,7 @@ Currently, I’m expanding my skills through a **Back-End Development diploma**,
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img alt="MongoDB" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/></a>&nbsp;
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img alt="Bootstrap" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"/></a>&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img alt="Git" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/></a>&nbsp;
-  <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img alt="Vercel" width="60" height="60" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%2024%2024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Ccircle%20cx%3D%2212%22%20cy%3D%2212%22%20r%3D%2210%22%20fill%3D%22%23000%22%2F%3E%3Cpolygon%20points%3D%2212%2C6%2018%2C16%206%2C16%22%20fill%3D%22%23fff%22%2F%3E%3C%2Fsvg%3E"/></a>
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img alt="Vercel" width="60" height="60" src="https://raw.githubusercontent.com/your-username/K7413dS433d/main/icons/vercel-icon.svg"/></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img alt="Figma" width="50" height="50" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/></a>&nbsp;
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img alt="Node.js" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/></a>&nbsp;
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img alt="Docker" width="60" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/></a>&nbsp;
@@ -58,6 +58,10 @@ Currently, I’m expanding my skills through a **Back-End Development diploma**,
   <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img alt="jQuery" width="45" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"/></a>&nbsp;
   <a href="https://www.linux.org/pages/download/" target="_blank" rel="noreferrer"><img alt="linux" width="50" height="50" src="https://devicon-website.vercel.app/api/linux/original.svg"/></a>&nbsp;
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img alt="npm" width="50" height="50" src="https://devicon-website.vercel.app/api/npm/original-wordmark.svg"/></a>&nbsp;
+
+    
+
+
 </p><br>
 
 ## Certifications
