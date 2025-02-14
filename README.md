@@ -40,7 +40,7 @@ Currently, I’m expanding my skills through a **Back-End Development diploma**,
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img alt="MongoDB" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/></a>&nbsp;
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img alt="Bootstrap" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"/></a>&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img alt="Git" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/></a>&nbsp;
-  <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img alt="Vercel" width="60" height="60" src="https://raw.githubusercontent.com/your-username/K7413dS433d/main/icons/vercel-icon.svg"/></a>
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img alt="Vercel" width="60" height="60" src="https://raw.githubusercontent.com/K7413dS433d/K7413dS433d/main/custom-icons/vercel-icon.svg"/></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img alt="Figma" width="50" height="50" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/></a>&nbsp;
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img alt="Node.js" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/></a>&nbsp;
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img alt="Docker" width="60" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/></a>&nbsp;
