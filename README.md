@@ -38,7 +38,6 @@ Currently, I’m expanding my skills through a **Back-End Development diploma**,
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img alt="MongoDB" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/></a>&nbsp;
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img alt="Bootstrap" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"/></a>&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img alt="Git" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/></a>&nbsp;
-  <a href="https://github.com/" target="_blank" rel="noreferrer"><img alt="GitHub" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/></a>&nbsp;
   <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img alt="Vercel" width="50" height="50" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vercel.svg"/></a>&nbsp;
   <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img alt="Webpack" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg"/></a>&nbsp;
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img alt="Figma" width="50" height="50" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/></a>&nbsp;
