@@ -31,28 +31,33 @@ Currently, I’m expanding my skills through a **Back-End Development diploma**,
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img alt="HTML5" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/></a>&nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img alt="CSS3" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/></a>&nbsp;
+  <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer" ><img alt="JavaScript" width="40" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/></a>&nbsp;
+  <a href="https://www.w3schools.com/ts/" target="_blank" rel="noreferrer" ><img alt="TypeScript" width="40" height="50" src="https://devicon-website.vercel.app/api/typescript/original.svg"/></a>&nbsp;
   <a href="https://react.dev/" target="_blank" rel="noreferrer"><img alt="React" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/></a>&nbsp;
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img alt="Redux" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"/></a>&nbsp;
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" ><img style="margin-right:15px;"  alt="Tailwind CSS" width="50" height="50" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/tailwindcss.svg" /></a>&nbsp;
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img alt="Express" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"/></a>&nbsp;
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img alt="Express" width="50" height="50" src="https://devicon-website.vercel.app/api/express/original.svg?color=%23FFFFFF"/></a>&nbsp;
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img alt="MongoDB" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/></a>&nbsp;
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img alt="Bootstrap" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"/></a>&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img alt="Git" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/></a>&nbsp;
-  <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img alt="Vercel" width="50" height="50" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vercel.svg"/></a>&nbsp;
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img alt="Vercel" width="60" height="60" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%2024%2024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Ccircle%20cx%3D%2212%22%20cy%3D%2212%22%20r%3D%2210%22%20fill%3D%22black%22%2F%3E%3Cpolygon%20points%3D%2212%2C6%2018%2C16%206%2C16%22%20fill%3D%22white%22%2F%3E%3C%2Fsvg%3E"/></a>&nbsp;
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img alt="Figma" width="50" height="50" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/></a>&nbsp;
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img alt="Node.js" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/></a>&nbsp;
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img alt="Docker" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/></a>&nbsp;
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img alt="Vite" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg"/></a>&nbsp;
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img alt="Bash" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"/></a>&nbsp;
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img alt="Docker" width="60" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/></a>&nbsp;
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img alt="Vite" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"/></a>&nbsp;
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" ><img width="45" height="50" src="https://static-00.iconduck.com/assets.00/bash-icon-448x512-t4tppxv4.png" alt="bash"/></a>&nbsp;
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img alt="MySQL" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/></a>&nbsp;
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img alt="VSCode" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/></a>&nbsp;
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img alt="VSCode" width="45" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/></a>&nbsp;
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img alt="C" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/></a>&nbsp;
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img alt="C++" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/></a>&nbsp;
-  <a href="https://stackoverflow.com/" target="_blank" rel="noreferrer"><img alt="Stack Overflow" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stackoverflow/stackoverflow-original.svg"/></a>&nbsp;
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img alt="Python" width="50" height="50" src="https://devicon-website.vercel.app/api/python/original.svg"/></a>&nbsp;
+  <a href="https://stackoverflow.com/" target="_blank" rel="noreferrer"><img alt="Stack Overflow" width="40" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stackoverflow/stackoverflow-original.svg"/></a>&nbsp;
   <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img alt="Java" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/></a>&nbsp;
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img alt="Sass" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/></a>&nbsp;
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img alt="Postman" width="50" height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/></a>&nbsp;
-  <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img alt="jQuery" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"/></a>&nbsp;
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img alt="Postman" width="45" height="45" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/></a>&nbsp;
+  <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img alt="jQuery" width="45" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"/></a>&nbsp;
+  <a href="https://www.linux.org/pages/download/" target="_blank" rel="noreferrer"><img alt="linux" width="50" height="50" src="https://devicon-website.vercel.app/api/linux/original.svg"/></a>&nbsp;
+  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img alt="npm" width="50" height="50" src="https://devicon-website.vercel.app/api/npm/original-wordmark.svg"/></a>&nbsp;
 </p><br>
 
 ## Certifications
