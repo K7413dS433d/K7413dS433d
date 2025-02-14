@@ -20,7 +20,7 @@ Currently, I’m expanding my skills through a **Back-End Development diploma**,
 
 ## Contact & Resume
 
-- [Check out my CV](link-to-publication)
+- [Check out my CV](https://drive.google.com/file/d/1LxDofGta8hbUSSQgevcqlCmPjNDnamMv/view?usp=sharing)
 
 - [My LindkedIn Profile](https://www.linkedin.com/in/k7413ds433d/)
 
