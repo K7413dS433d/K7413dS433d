@@ -12,17 +12,17 @@ Hi, I'm **Khaled Saeed**, a 22-year-old **Full Stack Developer** and a final-yea
 
 ## About Me
 
-I'm a **Full Stack Developer** with experience in building intuitive and dynamic web applications. I specialize in **React, Bootstrap, and Tailwind CSS** on the front end and **Node.js, Express, and MongoDB** on the backend.
+I'm a **Full Stack Developer** with a passion for crafting intuitive and dynamic web applications. My specialties include **React, Tailwind CSS, Bootstrap**, and **TypeScript** on the front end, and **Node.js, Express, MongoDB, Mongoose, GraphQL**, and **Socket.io** on the backend.
 
-I have a strong foundation in **problem-solving** and completed a summer training in **cybersecurity** at **ITI**.
+With a solid foundation in **problem-solving**, I completed a summer training in **cybersecurity** at **ITI** and am currently seeking opportunities to collaborate on meaningful projects.
 
-Currently, I’m expanding my skills through a **Back-End Development diploma**, and I enjoy sharing my work—so far.
+I'm currently exploring new opportunities to collaborate, innovate, and contribute to impactful projects while continuing to sharpen my skills.
 
 ## Contact & Resume
 
 - [Check out my CV](https://drive.google.com/file/d/1LxDofGta8hbUSSQgevcqlCmPjNDnamMv/view?usp=sharing)
 
-- [My LindkedIn Profile](https://www.linkedin.com/in/k7413ds433d/)
+- [My LinkedIn Profile](https://www.linkedin.com/in/k7413ds433d/)
 
 - [Email Me](mailto:khaledsaied2002@gmail.com) - khaledsaied2002@gmail.com
 
@@ -59,9 +59,6 @@ Currently, I’m expanding my skills through a **Back-End Development diploma**,
   <a href="https://www.linux.org/pages/download/" target="_blank" rel="noreferrer"><img alt="linux" width="50" height="50" src="https://devicon-website.vercel.app/api/linux/original.svg"/></a>&nbsp;
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img alt="npm" width="50" height="50" src="https://devicon-website.vercel.app/api/npm/original-wordmark.svg"/></a>&nbsp;
 
-    
-
-
 </p><br>
 
 ## Certifications
@@ -70,11 +67,21 @@ Currently, I’m expanding my skills through a **Back-End Development diploma**,
 
 - [Frontend Development Diploma](https://drive.google.com/file/d/17TFSCZcIH1cBTUd4sFoaUmnuYwH1ZZOk/view) - Route Academy, 2024
 
+- [Backend Development Diploma](https://drive.google.com/file/d/17TFSCZcIH1cBTUd4sFoaUmnuYwH1ZZOk/view) - Route Academy, 2025
+
 ## Top Projects
 
-- [**E-commerce**](https://k7413ds433d.github.io/E-commerce/) - Fresh Cart e-commerce app built using Tailwind CSS, React, and more.
+- [**Fresh Cart – E-commerce App (Frontend)**](https://k7413ds433d.github.io/E-commerce/)  
+  A fully responsive e-commerce website offering a seamless shopping experience. Users can register, log in, explore products, manage their cart and wishlist, and place orders effortlessly.
 
-- [**Notes-App**](https://k7413ds433d.github.io/Notes-App/) - A Notes app built with React, Redux, Lottie Files, and Framer Motion.
+- [**Notes-App (Frontend)**](https://k7413ds433d.github.io/Notes-App/)  
+  A dynamic notes app that lets users register, log in, and create custom-colored notes. It provides a user-friendly interface with smooth animations and fluid transitions.
+
+- [**Job Search App (Backend)**](https://github.com/K7413dS433d/Job-search-app-Backend)  
+  A backend system for managing job seekers and recruiters, with user roles, job applications, and profile management.
+
+- [**Multi-Library Management (Backend)**](https://github.com/K7413dS433d/Multi-library-management-Backend)  
+  A backend solution for a multi-library system, offering book tracking, user management, library-specific data handling, and secure endpoints.
 
 <h3 align="left">Snake Eating My Contributions:</h3>
 
