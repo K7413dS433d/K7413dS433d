@@ -8,8 +8,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=Full+Stack+Developer;Crafting+code+from+ideas%2C+script+by+script.+;The+power+of+imagination+makes+us+infinite." alt="Typing SVG" /></a>
 </p>
 
-
-
 <img align="right" alt="Coding GIF" width="350" height="250" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif">
 
 ### 👨‍💻 About Me
@@ -23,9 +21,7 @@
 
 <br clear="right"/>
 
-
 ## 💻 Tech Stack
-
 
 <div align="center">
 
@@ -49,20 +45,19 @@
 
 </div>
 
-
 ---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
   
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=K7413dS433d&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=K7413dS433d&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="48%" height=100 src="https://github-readme-stats.vercel.app/api?username=K7413dS433d&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img width="48%" height=101 src="https://github-readme-streak-stats.herokuapp.com/?user=K7413dS433d&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K7413dS433d&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="60%" height=120 src="https://github-readme-stats.vercel.app/api/top-langs/?username=K7413dS433d&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
