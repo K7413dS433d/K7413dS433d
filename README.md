@@ -52,12 +52,13 @@
 <div align="center">
   
   <img width="50%" height=150 src="https://github-readme-stats.vercel.app/api?username=K7413dS433d&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+
   <img width="48%" height=151 src="https://github-readme-streak-stats.herokuapp.com/?user=K7413dS433d&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
-  <img width="60%" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=K7413dS433d&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="80%" height=151 src="https://github-readme-stats.vercel.app/api/top-langs/?username=K7413dS433d&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
@@ -83,11 +84,17 @@
 
 ---
 
-## 🐍 Watch My Contributions Get Eaten!
+## 🟡 Watch My Contributions Get Eaten!
 
 <div align="center">
-  
-![Snake animation](https://github.com/K7413dS433d/K7413dS433d/blob/output/github-contribution-grid-snake-dark.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/K7413dS433d/K7413dS433d/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/K7413dS433d/K7413dS433d/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/K7413dS433d/K7413dS433d/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 </div>
 
