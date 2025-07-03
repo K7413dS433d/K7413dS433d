@@ -51,8 +51,9 @@
 
 <div align="center">
 
-  <img width="60%" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=K7413dS433d&layout=pie&theme=tokyonight" />
-  <img width="48%" height=150 src="https://github-readme-stats.vercel.app/api?username=K7413dS433d&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img  height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=K7413dS433d&layout=pie&theme=tokyonight" />
+
+  <img  height=150 src="https://github-readme-stats.vercel.app/api?username=K7413dS433d&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
 </div>
 
