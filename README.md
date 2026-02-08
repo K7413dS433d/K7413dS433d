@@ -51,7 +51,7 @@
 
 <div align="center">
 
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=K7413dS433d&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/K7413dS433d?cardType=level&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 </div>
 
